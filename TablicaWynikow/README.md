@@ -1,6 +1,6 @@
-# Google Maps Api project
+# TablicaWynikow (Scoreboard)
 This is Desktop Application using to display the results of basketball, football and volleyball matches with realitme realtion (scoreboard). The relation is saved to the TXT file in the indicated place in the second configuration window. 
-Each scoreboard has own second window for handling it.
+Each scoreboard has own second window for handling it. Unfortunatelly, this is only Polish version because it was one of my projects on university.
 
 ## Languages
 * C#/.NET, Winforms
