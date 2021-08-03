@@ -36,18 +36,18 @@ Each scoreboard has own second window for handling it. Unfortunatelly, this is o
 <p align="center"><strong>5. Volleyball scoreboard and it's window used for handling.</strong></p>
 <p align="center">
   <kbd>
-    <img width="100%" height="100%" src="https://imgur.com/0xVi66X.png" />
+    <img width="100%" height="100%" src="https://imgur.com/AJ7LxC6.png" />
   </kbd>
 </p>
 <p align="center"><strong>6. Football scoreboard and it's window used for handling.</strong></p>
 <p align="center">
   <kbd>
-    <img width="100%" height="100%" src="https://imgur.com/0xVi66X.png" />
+    <img width="100%" height="100%" src="https://imgur.com/ea3rLA6.png" />
   </kbd>
 </p>
 <p align="center"><strong>7. Window for changing clock on basketball scoreboard.</strong></p>
 <p align="center">
   <kbd>
-    <img width="100%" height="100%" src="https://imgur.com/0xVi66X.png" />
+    <img width="100%" height="100%" src="https://imgur.com/Ye4xyNr.png" />
   </kbd>
 </p>
